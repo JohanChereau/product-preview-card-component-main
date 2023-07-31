@@ -49,8 +49,8 @@ Users should be able to:
 
 ### Links
 
-- Solution on Front End Mentor: [Click here](https://your-solution-url.com)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Solution on Front End Mentor: [Click here](https://www.frontendmentor.io/solutions/responsive-product-card-semantic-html-and-css-grid-flexbox-bem-kEbhFXEpVr)
+- Live Site URL: [Click here](https://johanchereau.github.io/product-preview-card-component-main/)
 
 ## My process
 
